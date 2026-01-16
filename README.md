@@ -216,3 +216,9 @@ python mcp_bridge.py
 
 
 3. **Enjoy:** The entire process happens over your **Local WiFi**. Unplugging the internet router will not stop the system from working.
+
+
+## 🚀 Future Roadmap
+- [ ] Add support for Mac/Linux MCP.
+- [ ] Integrate Spotify API for music control.
+- [ ] Create a custom 3D printed case for the ESP32.
