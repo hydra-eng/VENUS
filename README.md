@@ -24,7 +24,6 @@ The system bridges three distinct worlds to ensure privacy and speed:
 3.**The Action World:** Your commands are executed on Windows (e.g., "Open Calculator") or IoT devices (e.g., "Turn on Lights").
 
 
-
 ---
 
 ## 🚀 Prerequisites
@@ -188,8 +187,15 @@ To enable IoT control (e.g., "Turn on the lights"):
 3. Add the Home Assistant MCP server to your `mcp_bridge.py` logic to route "light" or "switch" commands to HA instead of Windows.
 
 
+## HARDWARE CONNECTIONS
+
+
+![Untitled presentation](https://github.com/user-attachments/assets/f89a7bc5-e1c4-45d9-88cd-9179a6a2e062)
+
+
 
 ---
+
 
 ## 🎮 Usage
 
