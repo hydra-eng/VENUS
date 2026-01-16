@@ -1,4 +1,4 @@
-![ChatBot AI Xiaozhi schematic](https://github.com/user-attachments/assets/194dd122-fecf-4c0f-8ec2-f60ddc408e45)
+
 
 # 🌌 Project VENUS: Virtual Entity for Natural and User Support
 
