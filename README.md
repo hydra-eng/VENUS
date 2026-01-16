@@ -1,4 +1,4 @@
-
+![ChatBot AI Xiaozhi schematic](https://github.com/user-attachments/assets/194dd122-fecf-4c0f-8ec2-f60ddc408e45)
 
 # 🌌 Project VENUS: Virtual Entity for Natural and User Support
 
@@ -187,7 +187,12 @@ To enable IoT control (e.g., "Turn on the lights"):
 3. Add the Home Assistant MCP server to your `mcp_bridge.py` logic to route "light" or "switch" commands to HA instead of Windows.
 
 
-## HARDWARE CONNECTIONS
+
+## 🛠️HARDWARE CONNECTIONS
+
+
+![ChatBot AI Xiaozhi schematic](https://github.com/user-attachments/assets/5003dc0f-f44f-4114-9178-8a62c28ad930)
+
 
 
 ![Untitled presentation](https://github.com/user-attachments/assets/f89a7bc5-e1c4-45d9-88cd-9179a6a2e062)
