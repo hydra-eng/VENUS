@@ -36,7 +36,8 @@ The system bridges three distinct worlds to ensure privacy and speed:
 * [Ollama](https://ollama.com/)
 * [Python 3.10+](https://www.python.org/)
 
-![Uploading Untitled diagram-2026-01-16-101208.png…]()
+
+<img width="4143" height="5855" alt="Untitled diagram-2026-01-16-101208" src="https://github.com/user-attachments/assets/53ffed11-9bc4-4a60-ae02-4aeacb0808dd" />
 
 
 
