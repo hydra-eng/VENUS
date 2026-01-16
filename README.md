@@ -12,16 +12,16 @@ Project VENUS allows you to control your Windows PC and Smart Home devices using
 
 The system bridges three distinct worlds to ensure privacy and speed:
 
-1. 
-**The Hardware World:** Your ESP32 device acts as the microphone and speaker.
+ 
+1.**The Hardware World:** Your ESP32 device acts as the microphone and speaker.
 
 
-2. 
-**The Brain World:** A local server converts speech to text and uses **DeepSeek** (via Ollama) to make decisions.
+
+2.**The Brain World:** A local server converts speech to text and uses **DeepSeek** (via Ollama) to make decisions.
 
 
-3. 
-**The Action World:** Your commands are executed on Windows (e.g., "Open Calculator") or IoT devices (e.g., "Turn on Lights").
+ 
+3.**The Action World:** Your commands are executed on Windows (e.g., "Open Calculator") or IoT devices (e.g., "Turn on Lights").
 
 
 
